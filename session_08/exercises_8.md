@@ -1,7 +1,7 @@
 # Session 8 Exercises
 All of these questions will use a set of pre-made files with data in.
 
-To get these files go to: https://replit.com/@ihfcode/pythontwfiles and click on the "fork" button to make a copy of the repl and then you can start to write your code.
+To easily access these files, create your homework_8.py file in the text_files folder.
 
 
 ## Section A

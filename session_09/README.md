@@ -1,7 +1,6 @@
 # Session 9
 
 In this session we cover:
-- Multiple Assignment
-- Packing/Unpacking
-- Default/Keyword Arguments
-- `*args`, `**kwargs`
+- Waht is the SDLC process and what are various models of it.
+- The Agile Model
+- How to build a command-line app

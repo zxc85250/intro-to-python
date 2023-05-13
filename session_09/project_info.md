@@ -25,7 +25,7 @@ The project should:
 ### Ideas of projects
  - [30 Cool, Easy & Fun Python Projects with Source Code](https://hackr.io/blog/python-projects)
  - [25 Python Projects for Beginners](https://www.freecodecamp.org/news/python-projects-for-beginners/#hangman-python-project)
- - Sergiu's [project](https://github.com/sergiuHudrea](https://github.com/sergiuHudrea/fresh-gi-advisor)
+ - Sergiu's [project](https://github.com/sergiuHudrea/fresh-gi-advisor)
 
 ### Cheat sheets
  - Command Line [cheat sheet](https://www.git-tower.com/blog/command-line-cheat-sheet/)

@@ -9,8 +9,8 @@
 
 # Course Overview
 - 10 weeks
-- Wednesday — Lesson
-- Monday — Questions and Answers
+- Tuesday — Lesson (virtual) / Thursday - Lesson (in person at CSQ - London)
+- Friday — Drop in session
 
 ---
 
@@ -43,14 +43,6 @@
 ```python
 print("Hello, World!")
 ```
-
----
-
-# Text Editor
-
----
-
-# [fit] replit.com
 
 ---
 

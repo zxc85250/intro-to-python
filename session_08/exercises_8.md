@@ -1,7 +1,9 @@
 # Session 8 Exercises
 All of these questions will use a set of pre-made files with data in.
 
-To easily access these files, create your homework_8.py file in the text_files folder.
+To easily access these files, create your `homework_8.py` file in the `text_files` folder, but check the `TEST1.py` and `TEST2.py` to see how the path is changed in order to read the `austen.txt` file.
+
+---
 
 
 ## Section A

@@ -11,14 +11,14 @@ The course is a total beginner’s introduction to programming. It takes student
 The course breakdown is as follows:
 
 ## Session 0 - Fundamentals
-• Operating systems
+• Operating systems (OS)
 • Command-line interface (CLI)
-• Source control management (SCM) - Global information tracker (Git)
+• Bourne Again SHell (Bash)
+• Source control management (SCM) - Git
 • Integrated development environment (IDE)
-• Kanban
 • Markdown
 
-This session introduces students to operating systems, how developers work collaboratively, how to use the computer via the command-line interface. They also learn about how developers use IDEs to make their life easier, how kanban boards maximize efficiency and help visualize your work, and how to write simple formatted documents.
+This session introduces students to operating systems, how developers work collaboratively and how to use the computer via the command-line interface. They also learn about how developers use IDEs to make their life easier and how to write simple formatted documents using Markdown.
  
 ## Session 1 & 2 – Getting started with Python
 •	Intro to programming
@@ -59,31 +59,17 @@ These sessions teaches how to read and write data to files. Students calculate v
 •   Agile Model
 •   Programming principles
 •	How to build a Command-line project
+•   Kanban
 
-This session introduces students to various strategies and models developers (and not only) use to work efficiently. They will also learn how to build a command line app on their own using all the principles, skills and knowledge accumulated. 
+This session introduces students to various strategies, tools and models developers (and not only) use to work efficiently. They will also learn how to build a command line app on their own using all the principles, skills and knowledge accumulated. 
 
 
 
 
-# Resources
+# Suggested reads
 
-## Command Line and Git
  - What is the [Command Line](https://learntocodewith.me/learn/command-line/) and why do we use it?
- - Command Line [cheat sheet](https://www.git-tower.com/blog/command-line-cheat-sheet/)
- - Git commands [cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)
- 
-## Markdown, Kanban and IDE
- - What is [Kanban](https://kanbanize.com/kanban-resources/getting-started/what-is-kanban)?
  - What is an [IDE](https://www.redhat.com/en/topics/middleware/what-is-ide)?
- - Markdown [cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
- 
- ## ASCII
- 
- - [Ascii Art Archive](https://www.asciiart.eu/), amazing resource for making your project look cooler and more personal!
- - [Ascii writing](https://patorjk.com/software/taag/#p=display&f=Slant&t=Oss), great for 🔥 fonts.
- - [Ascii images](https://asciiart.club/), great for converting images.
-
-## Other
  - Very interesting [article](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) (but quite lengthy) about "What is code?".
- - [Ideas](https://hackr.io/blog/python-projects) of command line projects you could build.
  - Basic [programming principles](https://www.hongkiat.com/blog/basic-programming-principals/).
+ - What is [Kanban](https://kanbanize.com/kanban-resources/getting-started/what-is-kanban)?

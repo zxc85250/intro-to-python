@@ -1,7 +1,19 @@
 # Best practices for when you are working on exercises
 
+### Commenting out shortcut
+- Select the lines you want to comment and press:
+    - Windows: ```Ctrl + / ```
+    - Mac: ```Command + /```
 
-Navigate the folders using the command-line and create your <homework_sessionNumber.py> (ex: homework_2.py) file:
+---
+
+## When you start:
+
+First, make sure you are using the shell (not the console). 
+
+Using the bash shell, navigate the folders using the command-line and make sure you are in the same folder as the files you want to access. Ex: In order to access `exercises_1.py`, you have to be in `intro-to-python/session_01`.
+
+Here are some CLI commands to help you out:
 
 ```bash
 pwd # Prints to the console the path of your current working directory
@@ -13,24 +25,18 @@ cd <directory_name> # Gets in a given directory
 
 cd .. # Gets out of the directory you are in
 
-
-
-mkdir <directory_name> # Creates new directory
-
-rmdir my_folder # Deletes an empty Directory (Folder)
-
-rm -r <directory_name> # Deletes the directory and its contents recursively
-
-
-touch <file_name.txt/file_name.py> # Creates new file
-
-rm <file_name.txt/file_name.py> # Deletes file
-
-
-
 ```
 
 ---
+
+## How do you run a python file?
+1. Make sure that you are using the shell.
+1. Verify that you are in the folder containing the file you want to run. You can use `pwd` to check the current folder and `ls` to see the files in the current folder.
+2. Run `python <file_name.py>` (ex: `python session_1.py`).
+
+---
+
+## Before you go:
 
 When you are done for the day, don't forget to commit and push your work using the git commands:
 

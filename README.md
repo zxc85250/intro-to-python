@@ -70,6 +70,6 @@ This session introduces students to various strategies, tools and models develop
 
  - What is the [Command Line](https://learntocodewith.me/learn/command-line/) and why do we use it?
  - What is an [IDE](https://www.redhat.com/en/topics/middleware/what-is-ide)?
- - Very interesting [article](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) (but quite lengthy) about "What is code?".
+ - Very interesting [article](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) (although quite lengthy) about "What is code?".
  - Basic [programming principles](https://www.hongkiat.com/blog/basic-programming-principals/).
  - What is [Kanban](https://kanbanize.com/kanban-resources/getting-started/what-is-kanban)?

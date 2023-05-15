@@ -1,15 +1,28 @@
 # Best practices for when you are working on exercises
 
-### Commenting out shortcut
+## Shortcuts
+
+### Commenting out shortcut:
 - Select the lines you want to comment and press:
     - Windows: ```Ctrl + / ```
     - Mac: ```Command + /```
 
+
+### Bash shortcuts
+- TAB - autocompletes commands, file names, or directory names for you​.
+
+- UP/DOWN Arrows - Scroll backward and forwards through previous commands you’ve typed in the current session. ​
+
+- F3 - Repeat the previous command​.
+
+- CTRL + C -  Abort the current line you’re typing or a command that is currently executing​.
+
+
 ---
 
-## When you start:
 
-First, make sure you are using the shell (not the console). 
+## When you start:
+First, make sure you are using the shell 🐚 (not the console). 
 
 Using the bash shell, navigate the folders using the command-line and make sure you are in the same folder as the files you want to access. Ex: In order to access `exercises_1.py`, you have to be in `intro-to-python/session_01`.
 
@@ -30,7 +43,7 @@ cd .. # Gets out of the directory you are in
 ---
 
 ## How do you run a python file?
-1. Make sure that you are using the shell.
+1. Make sure that you are using the Shell 🐚.
 1. Verify that you are in the folder containing the file you want to run. You can use `pwd` to check the current folder and `ls` to see the files in the current folder.
 2. Run `python <file_name.py>` (ex: `python session_1.py`).
 

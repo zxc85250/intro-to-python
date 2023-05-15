@@ -25,7 +25,7 @@ Before you start, make sure that you are using the Shell 🐚 (not the console).
 
 10. Delete the bees.txt file with the `rm <file_name.txt>` command.
 
-11. Display the text "I love cake" to to the terminal by using `echo <text>`.
+11. Display the text "I love whippets!" to to the terminal by using `echo <text>`.
 
 12. Write the line "Whippet" in the dogs.txt file using `echo <text> > <file_name.txt>`.
 
@@ -39,8 +39,10 @@ Before you start, make sure that you are using the Shell 🐚 (not the console).
 # Section B
 
 1. Get out of the `animals` folder using `cd ..` .
+
 2. Create a Markdown file called "my_markdown_recipe" using `touch <file_name.md>`.
-3. Inside the "my_markdown_recipe.md" file,  type a recipe you like in Markdown format. If you don't have any ideas, and writing up in Markdown seems too much of a chore, just ask [ChatGPT](https://chat.openai.com/) to write one for you (Ex: "Write a burger recipe in markdown format."), and then paste it into your file. 
+
+3. Inside the "my_markdown_recipe.md" file, type a recipe you like using the Markdown syntax. If you don't have any ideas, or writing up in Markdown seems too much of a chore, just ask [ChatGPT](https://chat.openai.com/) to write one for you (Ex: "Come up with a recipe in markdown format."), and then paste it into your file. 
     - When you are done, click on the "open preview" option to see the formatted version.
 
 Great job on getting so far, just one more section to go!
@@ -48,14 +50,16 @@ Great job on getting so far, just one more section to go!
 # Section C
 
 1. Get out of the "session_00" folder using `cd ..` .
-2. Make sure you are in the "intro_to_python" directory by using the `pwd` command.
-3. Use `git status` to see what files and folders have been modified/c
+
+2. Make sure you are in the "intro-to-python" directory by using the `pwd` command.
+
 3. Use the `git add .` command to stage all the work you have done.
-4. Commit your work with `git commit -m`
 
+4. Commit your work with `git commit -m "<Short description of what you have worked on.>"`.
 
+5. Push your work to GitHub with `git push origin main`.
 
-
+Congratulations, all your work is now updated and stored on [GitHub](https://github.com/).
 
 
 ---

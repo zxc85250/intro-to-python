@@ -65,7 +65,7 @@
 
 - Command Language for most Linux distributions​
 
-- sh = Shell​
+- sh = Bourne Shell​
 
 - The Shell is the layer between the Operating System and the User (or other services)
 
@@ -92,7 +92,7 @@ cd .. # Gets out of the directory you are in
 ```bash
 mkdir <directory_name> # Creates new directory
 
-rmdir my_folder # Deletes an empty Directory (Folder)
+rmdir <directory_name> # Deletes an empty Directory (Folder)
 
 rm -r <directory_name> # Deletes the directory and its contents recursively
 
@@ -119,13 +119,17 @@ echo "Bonjour!" > file.txt  # Writes the text "Bonjour!" in the file.txt file​
 
 cat file.txt  # Reads the file.txt file -> prints the text "Bonjour!" to the console​
 
+
 history  # Displays your recently run Bash Commands​
 
 wget <https://somewhere.com/afile.zip>  # Downloads file/files from the link
 
+man <command> # Displays the manual and description for the chosen command -> ex: man ls/pwd/cd/mkdir
+
+
 clear  # Clears the terminal screen
 
-man <command> # Displays the manual and description for the chosen command -> ex: man ls/pwd/cd/mkdir
+
 
 ```
 
@@ -139,7 +143,7 @@ man <command> # Displays the manual and description for the chosen command -> ex
 
 - F3 - Repeat the previous command​.
 
-- CTRL+C -  Abort the current line you’re typing or a command that is currently executing​.
+- CTRL + C -  Abort the current line you’re typing or a command that is currently executing​.
 
 
 ---

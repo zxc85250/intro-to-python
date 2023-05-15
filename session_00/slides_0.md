@@ -113,16 +113,16 @@ cp original_filename copy_filename # Makes a copy of a file
 # More bash commands
 
 ```bash
-echo "Hello!"  # Print the text "Hello!" in the terminal window​
+echo <text> # Displays in the terminal a line of text, Ex: echo Hello!
 
-echo "Bonjour!" > file.txt  # Writes the text "Bonjour!" in the file.txt file​
+echo <text> > <file_name.txt>  # Writes a line of text in a file, Ex: echo Bonjour! > file.txt
 
-cat file.txt  # Reads the file.txt file -> prints the text "Bonjour!" to the console​
+cat <file_name.txt> # Reads the file and displays it line by line in the terminal, Ex: cat file.txt --> Bonjour!
 
 
 history  # Displays your recently run Bash Commands​
 
-wget <https://somewhere.com/afile.zip>  # Downloads file/files from the link
+date # Displays the date
 
 man <command> # Displays the manual and description for the chosen command -> ex: man ls/pwd/cd/mkdir
 

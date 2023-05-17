@@ -26,11 +26,13 @@
 
 12. `echo Whippet > dogs.txt`.
 
-13. `date`.
+13. `cat dogs.txt`
 
-14. `history`.
+14. `date`.
 
-15. `clear`.
+15. `history`.
+
+16. `clear`.
 
 
 ## Section B

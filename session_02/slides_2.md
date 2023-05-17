@@ -1,15 +1,9 @@
-# [fit] KPMG: Code
-## [fit] Python — Session 2 — Lesson
+# KPMG: Code
+## Python — Session 2 — Lesson
 
 ---
 
 # Review
-
----
-
-# Text Editor
-
-### https://replit.com
 
 ---
 
@@ -68,6 +62,17 @@ shopping_list = "Apples\nBread\nMilk\nEggs"
 
 ---
 
+# Comments
+
+```python
+# The total including VAT
+total = sub_total + vat
+
+has_paid = False # If the user has paid or not
+```
+
+---
+
 # Numerical Operators
 
 | Operator | Action | Example |
@@ -83,10 +88,6 @@ shopping_list = "Apples\nBread\nMilk\nEggs"
 
 # Concatenation
 
-[.code-highlight: 1-2]
-[.code-highlight: 3]
-[.code-highlight: 1,5]
-[.code-highlight: 1-3,6]
 ```python
 first_name = "Bob"
 last_name = "Jones"
@@ -112,23 +113,6 @@ print("Good morning, " + full_name)
 ---
 
 ## Any Questions?
-
----
-
-# Comments
-
----
-
-# Comments
-
-[.code-highlight: 1-2]
-[.code-highlight: 4]
-```python
-# The total including VAT
-total = sub_total + vat
-
-has_paid = False # If the user has paid or not
-```
 
 ---
 
@@ -221,8 +205,6 @@ print(str(percent_boys) + "% of the class are boys") # 41.0%
 
 # Length
 
-[.code-highlight: 1-2]
-[.code-highlight: 4]
 ```python
 name = "Alice"
 name_length = len(name) # 5
@@ -340,8 +322,6 @@ print("The area of the circle is: " + str(area))
 
 # Upper/Lower
 
-[.code-highlight: 1-2]
-[.code-highlight: 4]
 ```python
 name = "Alice"
 print(name.upper()) # ALICE
@@ -397,5 +377,5 @@ print("The middle letter of your name is " + middle_letter)
 
 ---
 
-# [fit] Coding Time
+# Coding Time
 ## Section A

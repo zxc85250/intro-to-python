@@ -1,5 +1,5 @@
-# [fit] KPMG: Code
-## [fit] Python — Session 5 — Lesson
+# KPMG: Code
+## Python — Session 5 — Lesson
 ---
 
 # Review
@@ -449,9 +449,6 @@ for x in range(times_to_loop):
 
 ---
 
-# [fit] Coding Time
+# Coding Time
 ## Section A
 
----
-
-### Questions?

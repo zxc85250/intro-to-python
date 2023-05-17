@@ -2,6 +2,10 @@
 
 Please copy the kanban board from [here](https://github.com/users/sergiuHudrea/projects/5) and follow the instructions. **Make sure you tick** the "Draft issues will be copied if selected" box.
 
+**DEADLINE for project submission:** one month from the last session.
+
+Once done, send your project (the GitHub link of it) to UK-DLKPMGPYTHONLEADERSHIP@KPMG.co.uk.
+
 ## Project requirements
 
 The project should:

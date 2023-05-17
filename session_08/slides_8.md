@@ -1,5 +1,5 @@
-# [fit] KPMG: Code
-## [fit] Python — Session 8 — Lesson
+# KPMG: Code
+## Python — Session 8 — Lesson
 
 ---
 
@@ -140,7 +140,7 @@ for x in f:
 ```
 ---
 
-# [fit] Coding Time
+# Coding Time
 ## Section A
 
 ---
@@ -195,6 +195,6 @@ f.close()
 
 ---
 
-# [fit] Coding Time
+# Coding Time
 ## Section B
 

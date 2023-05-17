@@ -7,6 +7,7 @@
 # 1. Write code that prints ‘Hello world’.
 
 
+
 # 2. Print the numbers 1 to 5 on a single line.
 
 

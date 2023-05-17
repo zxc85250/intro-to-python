@@ -1,5 +1,5 @@
-# [fit] KPMG: Code
-## [fit] Python — Session 4 — Lesson
+# KPMG: Code
+## Python — Session 4 — Lesson
 
 ---
 
@@ -255,7 +255,7 @@ print(names) # ["Alice", "Bob", "Charlie"]
 
 ---
 
-# [fit] Coding Time
+# Coding Time
 ## Section A
 
 ---
@@ -323,5 +323,5 @@ range(2000, 2020, 4)
 
 ---
 
-# [fit] Coding Time
+# Coding Time
 ## Section B

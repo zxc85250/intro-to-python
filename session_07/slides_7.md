@@ -1,5 +1,5 @@
-# [fit] KPMG: Code
-## [fit] Python — Session 7 — Lesson
+# KPMG: Code
+## Python — Session 7 — Lesson
 
 ---
 
@@ -94,10 +94,10 @@ for y in range(1, 101):
 
 # Collections
 
-- List
-- Tuple
-- Set
-- Dictionary
+- **List**
+- **Tuple**
+- **Set**
+- **Dictionary**
 
 ---
 
@@ -230,14 +230,14 @@ len()
 
 # What are functions?
 
-- Re-usable, self-contained blocks of code that do a single task
+- Re-usable, self-contained blocks of code that do a single task.
 
 ---
 
 # Why do we use functions?
 
-- Lets you re-use code
-- Break large problems into smaller ones
+- Lets you re-use code.
+- Break large problems into smaller ones.
 
 ---
 
@@ -384,18 +384,18 @@ def <function_name>(<param_1>, <param_2>, ...):
 
 ---
 
-# [fit] Coding Time
+# Coding Time
 ## Section A
 
 ---
 
 # Functions — Print vs Return
 
-- print is a function you call. Use print when you want to show a value to a human.
+- `print` is a function you call. Use `print` when you want to show a value to a human.
 
-- return is a keyword. When a return statement is reached, Python will stop the execution of the current function, sending a value out to where the function was called. Use return when you want to send a value from one point in your code to another.
+- `return` is a keyword. When a `return` statement is reached, Python will stop the execution of the current function, sending a value out to where the function was called. Use return when you want to send a value from one point in your code to another.
 
-- Using return changes the flow of the program. Using print does not.
+- Using `return` changes the flow of the program. Using `print` does not.
 
 ---
 
@@ -488,5 +488,5 @@ def calc_factorial(x):
 
 ---
 
-# [fit] Coding Time
+# Coding Time
 ## Section B

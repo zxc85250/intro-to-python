@@ -3,8 +3,8 @@ The course is a total beginner’s introduction to programming. It takes student
 
 
 # Prerequisites:
- - [ ] Create a GitHub account [here](https://github.com/).
- - [ ] Create a Replit account through your GitHub account [here](https://replit.com/).
+ - [ ] Create a GitHub account [here](https://github.com/) if you don't have one already.
+ - [ ] Create a Replit account through your GitHub account [here](https://replit.com/). If you already have a Replit account, go to [Account](https://replit.com/account), and in the "Connected services" section, connect to GitHub.
 
 # Syllabus 
 

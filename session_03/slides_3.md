@@ -1,14 +1,9 @@
-# [fit] KPMG: Code
-## [fit] Python — Session 3 — Lesson
+# KPMG: Code
+## Python — Session 3 — Lesson
 
 ---
 
 # Review
-
----
-# Text Editor
-
-### https://replit.com
 
 ---
 
@@ -59,15 +54,6 @@ print("Good morning, " + full_name)
 
 ---
 
-# Comments
-```python
-# The total including VAT
-total = sub_total + vat
-
-has_paid = False # If the user has paid or not
-```
-
----
 
 # Casting
 
@@ -268,7 +254,7 @@ else:
 
 ---
 
-# [fit] Coding Time
+# Coding Time
 ## Section A
 
 ---
@@ -364,5 +350,5 @@ if not (age > 12 and age < 20):
 
 ---
 
-# [fit] Coding Time
+# Coding Time
 ## Section B

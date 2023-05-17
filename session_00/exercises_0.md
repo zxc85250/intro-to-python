@@ -29,11 +29,13 @@ Before you start, make sure that you are using the Shell 🐚 (not the console).
 
 12. Write the line "Whippet" in the dogs.txt file using `echo <text> > <file_name.txt>`.
 
-13. Display the date in the terminal using the `date` command.
+13. Display what is inside the dogs.txt file by using `cat <file_name.txt>`.
 
-14. Display the recent history of your bash commands using the `history` command.
+15. Display the date in the terminal using the `date` command.
 
-15. Clear your terminal with the `clear` command.
+15. Display the recent history of your bash commands using the `history` command.
+
+16. Clear your terminal with the `clear` command.
 
 
 # Section B
@@ -42,7 +44,7 @@ Before you start, make sure that you are using the Shell 🐚 (not the console).
 
 2. Create a Markdown file called "my_markdown_recipe" using `touch <file_name.md>`.
 
-3. Inside the "my_markdown_recipe.md" file, type a recipe you like using the Markdown syntax. If you don't have any ideas, or writing up in Markdown seems too much of a chore, just ask [ChatGPT](https://chat.openai.com/) to write one for you (Ex: "Come up with a recipe in markdown format."), and then paste it into your file. 
+3. Inside the "my_markdown_recipe.md" file, type a recipe you like using the Markdown syntax. If you don't have any ideas, or writing up in Markdown seems too much of a chore, just ask [ChatGPT](https://chat.openai.com/) to write one for you (Ex: "Come up with a recipe in markdown format."), then paste it into your file. 
     - When you are done, click on the "open preview" option to see the formatted version.
 
 Great job on getting so far, just one more section to go!

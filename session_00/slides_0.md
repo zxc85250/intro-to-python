@@ -92,14 +92,15 @@
 # Bash commands
 
 ```bash
-pwd # Prints to the console the path of your current working directory
+pwd # Prints to the console the path of your current working directory 
+  # (short for "Print Working Directory")
 
-ls # Lists the files in the directory you are in
+ls # Lists the files in the current directory (short for "LiSt")
 
 
-cd <directory_name> # Gets in a given directory
+cd <directory_name> # Gets in a given directory (short for "Change current working Directory")
 
-cd .. # Gets out of the directory you are in
+cd .. # Gets out of the current directory
 
 ```
 
@@ -108,11 +109,12 @@ cd .. # Gets out of the directory you are in
 # More bash commands
 
 ```bash
-mkdir <directory_name> # Creates new directory
+mkdir <directory_name> # Creates new directory (short for "MaKe DIRectory")
 
-rmdir <directory_name> # Deletes an empty Directory (Folder)
+rmdir <directory_name> # Deletes an empty Directory (short for "ReMove DIRectory")
 
 rm -r <directory_name> # Deletes the directory and its contents recursively
+        # the "-" is called a "flag parameter" and it modifies the behaviour of the command
 
 
 touch <file_name.txt/file_name.py> # Creates new file
@@ -131,11 +133,14 @@ cp original_filename copy_filename # Makes a copy of a file
 # More bash commands
 
 ```bash
-echo <text> # Displays in the terminal a line of text, Ex: echo Hello!
+echo <text> # Displays in the terminal a line of text, Ex: echo Hello! --> Hello!
 
 echo <text> > <file_name.txt>  # Writes a line of text in a file, Ex: echo Bonjour! > file.txt
-
-cat <file_name.txt> # Reads the file and displays it line by line in the terminal, Ex: cat file.txt --> Bonjour!
+        # The > overwrites the file if it exists or creates it if it doesn't exist.
+        # The >> appends to a file or creates the file if it doesn't exist. 
+        
+cat <file_name.txt> # Reads the file and displays it line by line in the terminal,
+        # (short for "conCATenates files"). Ex: cat file.txt --> Bonjour!
 
 
 history  # Displays your recently run Bash Commands​
@@ -166,12 +171,47 @@ clear  # Clears the terminal screen
 
 ---
 
-# Coding Time
+
+# Coding Time 
 ## Section A
+
+
+---
+
+
+# Steps
+
+### On Github
+
+1. Fork the intro-to-python repo → https://github.com/sergiuHudrea/intro-to-python
+
+### On Replit
+
+1. Click on "Create Repl". 
+2. Select "Import from GitHub" 
+3. Paste link of your newly forked repo into the "GitHub URL" section.
+4. Click on "Import from GitHub".
+4. Check that you have access to the Shell.
+5. Start Section A from exercises_0.md. Make sure you click on "Open preview", so you can see nicely formatted.
+
+
+---
+
+# Versioning problem
+
+### Did you ever find yourself in this situation while working on an essay or document?
+- essay, essay2, essay2.5, essay_final, essay_FINAL, essay_FINAL2, ESSAY_REALLY_LAST_ONE
+
+
+---
+
+
+# So what is the solution?
 
 ---
 
 # Source Control Management(SCM) and Git
+
 
 ---
 
@@ -205,7 +245,7 @@ clear  # Clears the terminal screen
 
 # Git - What does it do?
 
-- Allows you to **collaborate** on a project w**ithout interfering with each other’s work.​**
+- Allows you to **collaborate** on a project **without interfering with each other’s work.​**
 
 - Keeps a **historical record of everyone's work** so you can go back to previous records.​
 
@@ -219,12 +259,12 @@ clear  # Clears the terminal screen
 
 ### Remote Repository​
 
-- This is where everyone shares their code centrally (ex: GitHub). ​
+- This is where everyone shares their code centrally (ex: GitHub) -> Think OneDrive, but for source code. 
 
 
 ### Local Repository​
 
- - When you commit your code, a local version is created on your machine.
+ - A local version of the source code which resides on your machine. -> Think making a local copy of a file from OneDrive to your computer.
 
  ---
 
@@ -274,6 +314,8 @@ git pull origin main # Downloads changes from the remote repository (main branch
 
 - ***Markdown* is a lightweight markup language for creating formatted text using a plain-text editor.**
 
+- **Fun fact:** This presentation was actually made by converting a markdown file into slides.
+
 ---
 
 # IDEs
@@ -286,5 +328,9 @@ git pull origin main # Downloads changes from the remote repository (main branch
 
 - **You can develop applications without an IDE**, but the you would have to build your own IDE by manually integrating the tools you need.​
 
-- **Replit** = a **cloud IDE** --> No need for downloading software and configuring local environments. No more "But it works on my machine".
+- **Replit** = a **cloud IDE** -> No need for downloading software and configuring local environments. No more "But it works on my machine".
 
+---
+
+# Coding Time
+## Section B

@@ -16,11 +16,11 @@
 
 7. `cd animals`.
 
-8. `touch penguins.txt dogs.txt bees.txt`.
+8. `touch penguins.txt dogs.txt roses.txt`.
 
 9. `touch snakes.py`.
 
-10. `rm bees.txt`.
+10. `rm roses.txt`.
 
 11. `echo I love whippets!`.
 

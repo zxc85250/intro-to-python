@@ -1,10 +1,10 @@
 # Command-line project
 
-Please copy the kanban board from [here](https://github.com/users/sergiuHudrea/projects/5) and follow the instructions. **Make sure you tick** the "Draft issues will be copied if selected" box.
+Please copy the kanban board from [here](https://github.com/users/sergiuHudrea/projects/5) and follow the **"Set up your project"** ticket from the Todo column. **Make sure you tick** the **"Draft issues will be copied if selected" box**.
 
 **DEADLINE for project submission:** one month from the last session.
 
-Once done, send your project (the GitHub link of it) to UK-DLKPMGPYTHONLEADERSHIP@KPMG.co.uk.
+Once done, send your project (the GitHub link of your repo) to UK-DLKPMGPYTHONLEADERSHIP@KPMG.co.uk.
 
 ## Project requirements
 
@@ -16,10 +16,6 @@ The project should:
 6. Have at least one `while` loop or one `for` loop.
 7. Make use of either `import` or `read/write`.
 8. Contain a README.md file with the description of your project.
-
-
-
-
 
 
 ---

@@ -1,8 +1,14 @@
 # Session 1 Exercises
 
 # Please have a look at the best_practices.md file beforehand.
+# Don't forget to comment out any piece of code that you dont want to be executed when running the file.
 
- 
+# Commenting out shortcut:
+# Select the lines you want to comment and press:
+#     - Windows: ```Ctrl + / ```
+#     - Mac: ```Command + /```
+
+
 ## Section A
 # 1. Write code that prints ‘Hello world’.
 

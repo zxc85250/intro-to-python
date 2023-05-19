@@ -22,9 +22,9 @@
 
 
 ## When you start:
-First, make sure you are using the shell 🐚 (not the console). 
+First, make sure you are using the Shell 🐚 (not the console). 
 
-Using the bash shell, navigate the folders using the command-line and make sure you are in the same folder as the files you want to access. Ex: In order to access `exercises_1.py`, you have to be in `intro-to-python/session_01`.
+While using the bash Shell, navigate the folders using the command-line and make sure you are in the same folder as the files you want to access. Ex: In order to access `exercises_1.py`, you have to be in `intro-to-python/session_01`.
 
 Here are some CLI commands to help you out:
 

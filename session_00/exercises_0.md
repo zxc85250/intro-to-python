@@ -18,12 +18,12 @@ Before you start, make sure that you are using the Shell 🐚 (not the console).
 
 7. Get into the animals folder by using `cd <directory_name>`.
 
-8. Create 3 text files named "penguins.txt", "dogs.txt", "bees.txt" by using `touch <file_name.txt>`.
+8. Create 3 text files named "penguins.txt", "dogs.txt", "roses.txt" by using `touch <file_name.txt>`.
     - Extra challenge: Can you do this while using `touch` only once?
 
 9. Create your first python file called "snakes.py" by using `touch <file_name.py>`.
 
-10. Delete the bees.txt file with the `rm <file_name.txt>` command.
+10. Delete the roses.txt file with the `rm <file_name.txt>` command.
 
 11. Display the text "I love whippets!" to to the terminal by using `echo <text>`.
 
@@ -66,33 +66,33 @@ Congratulations, all your work is now updated and stored on [GitHub](https://git
 
 ---
 
+# Cheat sheets
 
-## Cheat sheets
  - Command Line [cheat sheet](https://www.git-tower.com/blog/command-line-cheat-sheet/)
  - Git commands [cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 - Markdown [cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
 ---
 
-## Refresher
+# Refresher
 
-### Bash commands:
+## Bash commands:
 
 ```bash
-pwd # Prints to the console the path of your current working directory
+pwd # Prints to the console the path of your current working directory 
+  # (short for "Print Working Directory")
 
-ls # Lists the files in the directory you are in
+ls # Lists the files in the current directory (short for "LiSt")
+
+cd <directory_name> # Gets in a given directory (short for "Change current working Directory")
+
+cd .. # Gets out of the current directory
 
 
-cd <directory_name> # Gets in a given directory
 
-cd .. # Gets out of the directory you are in
+mkdir <directory_name> # Creates new directory (short for "MaKe DIRectory")
 
-
-
-mkdir <directory_name> # Creates new directory
-
-rmdir <directory_name> # Deletes an empty Directory (Folder)
+rmdir <directory_name> # Deletes an empty Directory (short for "ReMove DIRectory")
 
 rm -r <directory_name> # Deletes the directory and its contents recursively
 
@@ -103,11 +103,14 @@ rm <file_name.txt/file_name.py> # Deletes file
 
 
 
-echo <text> # Displays in the terminal a line of text, Ex: echo Hello!
+echo <text> # Displays in the terminal a line of text, Ex: echo Hello! --> Hello!
 
 echo <text> > <file_name.txt>  # Writes a line of text in a file, Ex: echo Bonjour! > file.txt
-
-cat <file_name.txt> # Reads the file and displays it line by line in the terminal, Ex: cat file.txt --> Bonjour!
+        # The > overwrites the file if it exists or creates it if it doesn't exist.
+        # The >> appends to a file or creates the file if it doesn't exist. 
+        
+cat <file_name.txt> # Reads the file and displays it line by line in the terminal,
+        # (short for "conCATenates files"). Ex: cat file.txt --> Bonjour!
 
 
 history  # Displays your recently run Bash Commands​
@@ -120,7 +123,7 @@ clear  # Clears the terminal screen
 
 ---
 
-### Bash shortcuts:
+## Bash shortcuts:
 
 - TAB - autocompletes commands, file names, or directory names for you​.
 
@@ -128,7 +131,7 @@ clear  # Clears the terminal screen
 
 ---
 
-### Git commands:
+## Git commands:
 
 ```shell
 

@@ -8,16 +8,22 @@
 
 ## Section A
 # 1. Read the file 'jabberwocky.txt' and print its content to the screen.
-
-
+# f = open("text_files/jabberwocky.txt")
+# print(f.read())
 
 # 2. Read the file 'austen.txt' and print the amount of lines in the file.
-
-
-
+# f = open("text_files/austen.txt")
+# num = 0
+# for i in f:
+#   num+=1
+# print(num)
 # 3. Each line of the file 'numbers.txt' contains a number, write a script to add up all the values in the file.
 
-
+# f = open("text_files/numbers.txt")
+# num = 0
+# for i in f:
+#   num+=int(i)
+# print(num)
 
 
 # <---------------------------------------------------------------------------------------------->
